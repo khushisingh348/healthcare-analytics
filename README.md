@@ -180,7 +180,8 @@ The dashboard provides insights into:
 
 
 
-Power BI dashboard screenshots can be added here.
+![Healthcare Analytics Dashboard](dashboard.png)
+
 
 
 
