@@ -174,6 +174,8 @@ The dashboard provides insights into:
 
 | `python/`                  | Python analysis files       |
 
+|  `dashboard.png`           | Healthcare Analytics Dashboard |
+
 
 
 **Dashboard Preview**
