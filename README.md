@@ -14,7 +14,7 @@ The project analyzes hospital patient data to identify meaningful insights relat
 
 
 
-Tools \& Technologies
+--Tools \& Technologies
 
 
 
@@ -32,7 +32,7 @@ DAX
 
 
 
-Project Workflow
+--Project Workflow
 
 
 
@@ -54,7 +54,7 @@ SQL Analysis
 
 &#x20;       ↓
 
-Power BI Dashboard
+--Power BI Dashboard
 
 ```
 
@@ -64,7 +64,7 @@ Analysis Performed
 
 
 
-Python (Pandas)
+--Python (Pandas)
 
 
 
@@ -80,7 +80,7 @@ Data analysis using Pandas
 
 
 
-Excel Analysis
+--Excel Analysis
 
 
 
@@ -102,7 +102,7 @@ Charts and visualizations
 
 
 
-SQL Analysis
+--SQL Analysis
 
 
 
@@ -122,11 +122,11 @@ Length of stay analysis
 
 
 
-Power BI Dashboard
+--Power BI Dashboard
 
 
 
-The dashboard provides insights into:
+--The dashboard provides insights into:
 
 
 
@@ -154,7 +154,7 @@ Interactive Filters
 
 
 
-Project Files
+--Project Files
 
 
 
@@ -178,7 +178,7 @@ Project Files
 
 
 
-Dashboard Preview
+--Dashboard Preview
 
 
 
@@ -187,7 +187,7 @@ Dashboard Preview
 
 
 
-Project Objective
+--Project Objective
 
 
 
@@ -199,7 +199,7 @@ Python (Pandas) → Excel → SQL → Power BI
 
 
 
-Key Skills Demonstrated
+--Key Skills Demonstrated
 
 
 
