@@ -1,8 +1,8 @@
-**Healthcare Data Analytics**
+Healthcare Data Analytics
 
 
 
-**Project Overview**
+Project Overview
 
 
 
@@ -14,25 +14,25 @@ The project analyzes hospital patient data to identify meaningful insights relat
 
 
 
-**Tools \& Technologies**
+Tools \& Technologies
 
 
 
-\* Python
+Python
 
-\* Pandas
+Pandas
 
-\* Microsoft Excel
+Microsoft Excel
 
-\* SQL
+SQL
 
-\* Power BI
+Power BI
 
-\* DAX
+DAX
 
 
 
-**Project Workflow**
+Project Workflow
 
 
 
@@ -60,69 +60,69 @@ Power BI Dashboard
 
 
 
-**Analysis Performed**
+Analysis Performed
 
 
 
-**Python (Pandas)**
+Python (Pandas)
 
 
 
-\* Data loading
+Data loading
 
-\* Data cleaning
+Data cleaning
 
-\* Handling missing values
+Handling missing values
 
-\* Exploratory Data Analysis
+Exploratory Data Analysis
 
-\* Data analysis using Pandas
-
-
-
-**Excel Analysis**
+Data analysis using Pandas
 
 
 
-\* Data analysis
-
-\* PivotTables
-
-\* Patient analysis
-
-\* Admission analysis
-
-\* Gender analysis
-
-\* Age-group analysis
-
-\* Monthly billing analysis
-
-\* Charts and visualizations
+Excel Analysis
 
 
 
-**SQL Analysis**
+Data analysis
+
+PivotTables
+
+Patient analysis
+
+Admission analysis
+
+Gender analysis
+
+Age-group analysis
+
+Monthly billing analysis
+
+Charts and visualizations
 
 
 
-\* Patient analysis
-
-\* Admission analysis
-
-\* Medical condition analysis
-
-\* Gender analysis
-
-\* Age analysis
-
-\* Billing analysis
-
-\* Length of stay analysis
+SQL Analysis
 
 
 
-**Power BI Dashboard**
+Patient analysis
+
+Admission analysis
+
+Medical condition analysis
+
+Gender analysis
+
+Age analysis
+
+Billing analysis
+
+Length of stay analysis
+
+
+
+Power BI Dashboard
 
 
 
@@ -130,31 +130,31 @@ The dashboard provides insights into:
 
 
 
-\* Total Patients
+Total Patients
 
-\* Average Age
+Average Age
 
-\* Average Length of Stay
+Average Length of Stay
 
-\* Total Billing
+Total Billing
 
-\* Average Billing
+Average Billing
 
-\* Patients by Admission Type
+Patients by Admission Type
 
-\* Patients by Medical Condition
+Patients by Medical Condition
 
-\* Patients by Age Group
+Patients by Age Group
 
-\* Patients by Gender
+Patients by Gender
 
-\* Monthly Billing Trend
+Monthly Billing Trend
 
-\* Interactive Filters
+Interactive Filters
 
 
 
-**Project Files**
+Project Files
 
 
 
@@ -178,7 +178,7 @@ The dashboard provides insights into:
 
 
 
-**Dashboard Preview**
+Dashboard Preview
 
 
 
@@ -187,7 +187,7 @@ The dashboard provides insights into:
 
 
 
-**Project Objective**
+Project Objective
 
 
 
@@ -199,31 +199,31 @@ Python (Pandas) → Excel → SQL → Power BI
 
 
 
-**Key Skills Demonstrated**
+Key Skills Demonstrated
 
 
 
-\* Data Cleaning
+Data Cleaning
 
-\* Data Analysis
+Data Analysis
 
-\* Exploratory Data Analysis
+Exploratory Data Analysis
 
-\* SQL Querying
+SQL Querying
 
-\* Excel Data Analysis
+Excel Data Analysis
 
-\* Power BI Dashboard Development
+Power BI Dashboard Development
 
-\* DAX
+DAX
 
-\* Data Visualization
+Data Visualization
 
-\* Business Insights
+Business Insights
 
 
 
-**Author**
+Author
 
 
 
